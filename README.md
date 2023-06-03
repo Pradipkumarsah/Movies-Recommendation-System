@@ -17,8 +17,8 @@ Database :-
 Excelsheet
 
 Requirements :-
-Python 3.6
-pip3
-VirtualEnv
-Pycharm
+Python 3.6,
+pip3,
+VirtualEnv,
+Pycharm,
 JupiterNotebook
