@@ -3,3 +3,22 @@ A Web Base user-item Movie Recommendation Engine using Content based Filtering B
 
 
 ![image](https://github.com/Pradipkumarsah/Movies-Recommendation-System/assets/101270672/d4b5d2e7-bc07-4932-862e-d2115495df26)
+
+
+Technologies Used :
+
+Web Technologies :
+Streamlit
+
+Machine Learning Library in Python3
+Numpy Pandas Scipy
+
+Database
+Excelsheet
+
+Requirements
+Python 3.6
+pip3
+VirtualEnv
+Pycharm
+JupiterNotebook
