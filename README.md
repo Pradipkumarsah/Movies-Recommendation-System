@@ -11,7 +11,7 @@ Web Technologies :-
 Streamlit
 
 Machine Learning Library in Python3 :-
-Numpy Pandas Scipy
+Numpy,Pandas,Scipy
 
 Database :-
 Excelsheet
