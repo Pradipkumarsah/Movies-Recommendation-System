@@ -7,16 +7,16 @@ A Web Base user-item Movie Recommendation Engine using Content based Filtering B
 
 Technologies Used :
 
-Web Technologies :
+Web Technologies :-
 Streamlit
 
-Machine Learning Library in Python3
+Machine Learning Library in Python3 :-
 Numpy Pandas Scipy
 
-Database
+Database :-
 Excelsheet
 
-Requirements
+Requirements :-
 Python 3.6
 pip3
 VirtualEnv
